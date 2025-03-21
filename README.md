@@ -117,8 +117,9 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 
 ```
-<h3>Output:</h3>
-![Screenshot 2025-03-21 161242](https://github.com/user-attachments/assets/1a4c78cb-6510-4935-87b3-175d676abed6)
+Output:
+![Screenshot 2025-03-21 161242](https://github.com/user-attachments/assets/7aa4f6b6-aa28-4608-9ad7-4634fc5c0a91)
+
 
 
 
